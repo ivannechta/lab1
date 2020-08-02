@@ -9,6 +9,9 @@ public class MainActivity extends AppCompatActivity {
     public int sum (int a,int b){
         return a+b;
     }
+
+    // comment
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
